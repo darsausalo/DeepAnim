@@ -1,0 +1,7 @@
+{
+  "name": "io.philsa.kcc",
+  "version": "3.1.0",
+  "description": "Kinematic Character Controller a relatively low-level character controller solution that is not tied to any specific game genre and is made to be cleanly integrated into any project/architecture with as little friction or bloat as possible. Instead of using rigidbody physics, it uses a \"collide and slide\" algorithm that makes its movements perfectly fluid, precise and responsive. Note that its \"kinematic\" nature means that it will not get pushed by forces or rigidbodies automatically. These sorts of interactions have to be explicitly scripted.",
+  "displayName": "Kinematic Character Controller",
+  "unity": "2020.3"
+}
